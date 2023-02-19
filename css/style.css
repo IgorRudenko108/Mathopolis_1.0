@@ -1136,6 +1136,7 @@ body .menu__list > li:hover .menu__arrow img {
   color: #fff;
   padding: 20px;
   border-radius: 14px;
+  text-align: center;
 }
 
 .full-video__video-box {
@@ -2390,7 +2391,7 @@ body .menu__list > li:hover .menu__arrow img {
 
   .full-video__main-title {
     max-width: 100%;
-    margin: 0 auto 30px;
+    margin: 0 0 30px auto;
   }
 
   .full-video__play-icon {
