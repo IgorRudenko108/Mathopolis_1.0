@@ -1132,10 +1132,10 @@ body .menu__list > li:hover .menu__arrow img {
 .full-video__main-title {
   max-width: 610px;
   margin: 0 0 60px auto;
+  background-color: rgba(116, 197, 255, 0.7098039216);
   color: #fff;
-  background-color: rgba(255, 127, 145, 0.6509803922);
-  border-radius: 14px;
   padding: 20px;
+  border-radius: 14px;
 }
 
 .full-video__video-box {
